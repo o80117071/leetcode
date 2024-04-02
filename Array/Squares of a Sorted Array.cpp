@@ -1,5 +1,5 @@
-#時間複雜度 O(n)
-#空間複雜度 O(n)
+//時間複雜度 O(n)
+//空間複雜度 O(n)
 
 class Solution {
 public:
